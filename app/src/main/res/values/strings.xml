@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RollerMartin</string>
+    <string name="lbl_gretiing">Gretiing!</string>
+    <string name="btn_roller">Roller</string>
+</resources>
