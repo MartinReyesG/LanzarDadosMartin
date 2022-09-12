@@ -7,10 +7,10 @@ import android.widget.ImageView
 import android.widget.TextView
 
 class MainActivity : AppCompatActivity() {
-    lateinit var boton: Button
-    lateinit var lbl: TextView
-    lateinit var img: ImageView
-    lateinit var img2: ImageView
+    lateinit var boton: Button //boton
+    lateinit var lbl: TextView //etiqueta
+    lateinit var img: ImageView //dado original
+    lateinit var img2: ImageView //dado nuevo
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
